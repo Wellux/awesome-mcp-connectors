@@ -18,13 +18,13 @@ The tool layer of an agent stack: the Model Context Protocol and its SDKs, MCP s
 </picture>
 
 1. **Start here.** Oben unter [Start here](#start-here) stehen 4 Picks, einer je Rolle. Fang mit dem an, der zu deiner Lücke passt.
-2. **Rubrik.** Unter [Contents](#contents) die Rubrik wählen: 240 Repos, jedes genau einmal einsortiert, nach der Aufgabe, die es erledigt.
+2. **Rubrik.** Unter [Contents](#contents) die Rubrik wählen: jedes Repo steht genau einmal da, nach der Aufgabe, die es erledigt.
 3. **Ausprobieren.** Den Pick öffnen und seine Install-Zeile ausführen; die Sterne zeigen, wie viele ihn schon nutzen.
 4. **Dranbleiben.** Dieser Liste einen Stern geben: neue Picks erscheinen in deinem GitHub-Feed.
 
 **Was du davon hast**
 
-- 240 Repos rund um MCP Connectors, nach Aufgabe sortiert, statt tagelang selbst zu suchen.
+- Die Repos rund um MCP Connectors an einem Ort, nach Aufgabe sortiert, statt tagelang selbst zu suchen.
 - Jeder Pick sagt in einem Satz, wofür er gut ist.
 - Aufgenommen wird nur, was öffentlich ist, eine Lizenz hat und heute läuft.
 
