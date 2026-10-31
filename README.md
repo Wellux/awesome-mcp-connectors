@@ -3,7 +3,7 @@
   <img alt="Awesome MCP Connectors: MCP servers, gateways, connectors, agent CLIs, browser and computer use and web data that give agents hands." src=".github/assets/header-hell.svg" width="100%">
 </picture>
 
-<p align="center"><a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat2.svg"></a> <img alt="240 repos" src="https://img.shields.io/badge/repos-240-1B8DBE?style=flat-square"> <img alt="7 categories" src="https://img.shields.io/badge/categories-7-1B8DBE?style=flat-square"> <img alt="2.1M stars combined" src="https://img.shields.io/badge/stars_combined-2.1M-1B8DBE?style=flat-square"> <img alt="updated 2026-10-29" src="https://img.shields.io/badge/updated-2026--10--29-95969A?style=flat-square"> <img alt="license CC0" src="https://img.shields.io/badge/license-CC0-95969A?style=flat-square"></p>
+<p align="center"><a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat2.svg"></a> <img alt="241 repos" src="https://img.shields.io/badge/repos-241-1B8DBE?style=flat-square"> <img alt="7 categories" src="https://img.shields.io/badge/categories-7-1B8DBE?style=flat-square"> <img alt="2.1M stars combined" src="https://img.shields.io/badge/stars_combined-2.1M-1B8DBE?style=flat-square"> <img alt="updated 2026-10-29" src="https://img.shields.io/badge/updated-2026--10--29-95969A?style=flat-square"> <img alt="license CC0" src="https://img.shields.io/badge/license-CC0-95969A?style=flat-square"></p>
 
 <h3 align="center">Give your agents hands: apps, browsers, screens and the web.</h3>
 
@@ -33,7 +33,7 @@ The tool layer of an agent stack: the Model Context Protocol and its SDKs, MCP s
 
 ## Start here
 
-No time for 240 repos? Start with these 4, one per role. Add the rest when you feel the gap.
+No time for 241 repos? Start with these 4, one per role. Add the rest when you feel the gap.
 
 | Role | Pick | Why |
 |:--|:--|:--|
@@ -52,7 +52,7 @@ No time for 240 repos? Start with these 4, one per role. Add the rest when you f
 - [MCP foundations](#mcp-foundations) · 38<br><sub>[Spec, SDKs and frameworks](#spec-sdks-and-frameworks) · [Gateways, registries and managers](#gateways-registries-and-managers) · [Other agent protocols](#other-agent-protocols) · [MCP directories](#mcp-directories)</sub>
 - [MCP servers](#mcp-servers) · 68<br><sub>[Developer and infrastructure servers](#developer-and-infrastructure-servers) · [Work and business app servers](#work-and-business-app-servers) · [Notes and knowledge servers](#notes-and-knowledge-servers) · [Creative, CAD and maker servers](#creative-cad-and-maker-servers) · [Other models as tools](#other-models-as-tools)</sub>
 - [Connectors and agent CLIs](#connectors-and-agent-clis) · 19<br><sub>[Integration, auth and wallet platforms](#integration-auth-and-wallet-platforms) · [CLIs built for agents](#clis-built-for-agents)</sub>
-- [Browser agents](#browser-agents) · 36<br><sub>[Autonomous browser agents](#autonomous-browser-agents) · [Browser control for agents](#browser-control-for-agents) · [AI testing and recorded workflows](#ai-testing-and-recorded-workflows)</sub>
+- [Browser agents](#browser-agents) · 37<br><sub>[Autonomous browser agents](#autonomous-browser-agents) · [Browser control for agents](#browser-control-for-agents) · [AI testing and recorded workflows](#ai-testing-and-recorded-workflows)</sub>
 - [Computer and phone use](#computer-and-phone-use) · 32<br><sub>[Desktop computer use](#desktop-computer-use) · [Phone and mobile use](#phone-and-mobile-use)</sub>
 - [Web data for LLMs](#web-data-for-llms) · 29<br><sub>[Crawlers and extractors](#crawlers-and-extractors) · [Search for agents](#search-for-agents) · [Video and social readers](#video-and-social-readers)</sub>
 - [Workflow pipes](#workflow-pipes) · 18<br><sub>[n8n ecosystem](#n8n-ecosystem) · [Workflow template libraries](#workflow-template-libraries)</sub>
@@ -280,6 +280,7 @@ Let agents read and act on the web like a person.
 ### AI testing and recorded workflows
 
 - **[workflow-use](https://github.com/browser-use/workflow-use)** `★ 4.2k` · Creates and runs browser automation workflows, pitched as RPA 2.0.
+- **[agent-qa](https://github.com/vostride/agent-qa)** · Web and mobile QA by [vostride](https://vostride.com), with a local MCP interface, persistent memidex memory and validated self-improvement.
 - **[vibetest-use](https://github.com/browser-use/vibetest-use)** `★ 832` · MCP server for automated QA testing of web apps with Browser Use agents.
 
 <sub><a href="#contents">back to contents</a></sub>
@@ -411,7 +412,7 @@ Every list comes from the same 6,623 starred repos, sorted by the job they do. E
 | **[awesome-agent-os](https://github.com/Wellux/awesome-agent-os)** | Personal agents and the ecosystems around them: OpenClaw, Hermes, DeepSeek Harness, cockpits, company OS and devices. | 436 |
 | **[awesome-coding-agents](https://github.com/Wellux/awesome-coding-agents)** | Claude Code, Codex, OpenCode, Pi and Herdr with setups, parallel sessions, loops, code context, usage and guides. | 459 |
 | **[awesome-agent-skills](https://github.com/Wellux/awesome-agent-skills)** | Skill libraries, SKILL.md tooling, subagents, rules files, prompts and system prompts. | 225 |
-| **awesome-mcp-connectors** (you are here) | MCP servers, gateways, connectors, agent CLIs, browser and computer use and web data that give agents hands. | 240 |
+| **awesome-mcp-connectors** (you are here) | MCP servers, gateways, connectors, agent CLIs, browser and computer use and web data that give agents hands. | 241 |
 | **[awesome-agent-memory](https://github.com/Wellux/awesome-agent-memory)** | Memory layers, RAG, vector search, document parsing, second brains and research agents, so agents stop forgetting. | 289 |
 | **[awesome-agent-engineering](https://github.com/Wellux/awesome-agent-engineering)** | Frameworks, multi-agent systems, workflows, voice agents, guardrails, evals and the courses to build them. | 369 |
 | **[awesome-ai-models](https://github.com/Wellux/awesome-ai-models)** | Run, route, train and study AI models: local inference, gateways, open models, decision models, vision and robotics. | 594 |
