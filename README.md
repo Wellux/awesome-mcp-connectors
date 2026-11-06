@@ -153,6 +153,7 @@ One app or system, plugged into any agent.
 - **[mcp-google-ads](https://github.com/FGRibreau/mcp-google-ads)** `★ 68` · MCP server for full Google Ads campaign management with safety guardrails.
 - **[instagram-mcp](https://github.com/mcpware/instagram-mcp)** `★ 66` · MCP server with 23 Instagram Graph API tools for posts, comments, DMs, stories and analytics.
 - **[clickup-mcp](https://github.com/hauptsacheNet/clickup-mcp)** `★ 49` · MCP server that gives agents access to ClickUp.
+- **[jobspipe/mcp](https://github.com/jobspipe/mcp)** · Hosted MCP for searching live job postings across 30+ ATS feeds and job boards.
 
 ### Notes and knowledge servers
 
