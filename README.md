@@ -153,6 +153,7 @@ One app or system, plugged into any agent.
 - **[mcp-google-ads](https://github.com/FGRibreau/mcp-google-ads)** `★ 68` · MCP server for full Google Ads campaign management with safety guardrails.
 - **[instagram-mcp](https://github.com/mcpware/instagram-mcp)** `★ 66` · MCP server with 23 Instagram Graph API tools for posts, comments, DMs, stories and analytics.
 - **[clickup-mcp](https://github.com/hauptsacheNet/clickup-mcp)** `★ 49` · MCP server that gives agents access to ClickUp.
+- **[datacircle](https://github.com/waynehamadi/datacircle)** · Our remote MCP server, open with no key, at api.datacircle.dev/mcp: find the best GTM APIs and their plans, from [datacircle.dev](https://datacircle.dev).
 
 ### Notes and knowledge servers
 
