@@ -192,6 +192,7 @@ One app or system, plugged into any agent.
 - **[mcp-google-ads](https://github.com/FGRibreau/mcp-google-ads)** `★ 72` · MCP server for full Google Ads campaign management with safety guardrails.
 - **[mobbin-mcp-server](https://github.com/mobbin/mobbin-mcp-server)** `★ 70` · Exposes the Mobbin UI design library to agents through an MCP server.
 - **[clickup-mcp](https://github.com/hauptsacheNet/clickup-mcp)** `★ 49` · MCP server that gives agents access to ClickUp.
+- **[datacircle](https://github.com/waynehamadi/datacircle)** · Our remote MCP server, open with no key, at api.datacircle.dev/mcp: find the best GTM APIs and their plans, from [datacircle.dev](https://datacircle.dev).
 
 ### Notes and knowledge servers
 
