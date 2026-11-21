@@ -228,6 +228,7 @@ One app or system, plugged into any agent.
 - **[ArchimedesCrypto/fusion360-mcp-server](https://github.com/ArchimedesCrypto/fusion360-mcp-server)** `★ 83` · MCP server that connects AI agents to Autodesk Fusion 360.
 - **[after-effects-mcp](https://github.com/ishu86/after-effects-mcp)** `★ 49` · MCP server that lets AI assistants like Claude automate Adobe After Effects with 70+ tools.
 - **[elgato-mcp-server](https://github.com/elgatosf/elgato-mcp-server)** `★ 17` · Elgato's MCP server that automates Elgato apps from AI assistants.
+- **[i2v-ai/i2v-mcp](https://github.com/i2v-ai/i2v-mcp)** · Hosted MCP server that generates images and videos across 12 image and 16 video models, quoting the USD cost before every paid task.
 
 ### Other models as tools
 
