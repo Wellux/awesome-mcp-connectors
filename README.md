@@ -324,6 +324,7 @@ Let agents read and act on the web like a person.
 - **[jev-browser-use](https://github.com/wy-coliney/jev-browser-use)** `★ 1.2k` · Faster browser operations where Jev does the clicking and Codex thinks and verifies.
 - **[Interceptor](https://github.com/Hacker-Valley-Media/Interceptor)** `★ 629` · One CLI and MCP server for browser automation and computer use by AI agents.
 - **[sweetlink](https://github.com/steipete/sweetlink)** `★ 171` · Lets an agent drive and debug your web app in the browser tab you already have open.
+- **[easi.run](https://github.com/julianosig/easi.run)** · Self-hosted Chrome sessions for AI agents with MCP tools, live viewing and replay.
 
 ### AI testing and recorded workflows
 
