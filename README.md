@@ -146,6 +146,7 @@ The protocol, SDKs, gateways and directories.
 - **[punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers)** `★ 3.3k` · Curated list of remote MCP servers that agents can connect to over HTTP.
 - **[jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers)** `★ 1.2k` · Curated list of remote MCP servers.
 - **[official-mcp-servers](https://github.com/VoltAgent/official-mcp-servers)** `★ 425` · Curated directory of 390+ official MCP servers from the companies behind the products.
+- **[Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp)** - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
 
 <sub><a href="#contents">back to contents</a></sub>
 
