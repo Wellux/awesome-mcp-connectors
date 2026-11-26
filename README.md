@@ -252,6 +252,7 @@ Hundreds of apps behind one door, or one CLI per app.
 
 - **[nango](https://github.com/NangoHQ/nango)** `★ 13.2k` · **Top pick.** Connects agents and products to 1,000 APIs.
 - **[composio](https://github.com/ComposioHQ/composio)** `★ 31.1k` · 1000+ toolkits with tool search, authentication and a sandboxed workbench for AI agents.
+- **[Scalekit AgentKit](https://github.com/scalekit-inc/scalekit-sdk-python)** · Tooling and auth layer for AI agents with 1,100+ connectors / 55,000+ tools, OAuth-protected access, and hosted MCP.
 - **[pipedream](https://github.com/PipedreamHQ/pipedream)** `★ 11.8k` · iPaaS for connecting APIs through serverless workflows in Node.js, Python, Go or Bash.
 - **[treg](https://github.com/superdesigndev/treg)** `★ 8.1k` · OpenRouter for agent tools, with API key and credential handling.
 - **[internet-court-skill](https://github.com/internet-court/internet-court-skill)** `★ 7.1k` · Handles agent-to-agent mandates, x402 payments, escrow and dispute resolution.
